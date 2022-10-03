@@ -1,6 +1,6 @@
 ### Hi there 👋, Whitney Major
 #### Web Development
-![Web Development](https://express.adobe.com/post/PtQ8pXCvo6u9m/)
+![Web Development](https://github.com/whitmajor/Whitney-Alexis-Major/blob/main/My%20project-1.png)
 
 I'm an aspiring software engineer hoping to ground my feet into the awesome world of technology! I am passionate about making open-source more accessible, creating technology to elevate the world and build our community to follow suite. My favorite languages to work with include HTML, CSS, JavaScript and SQL!
 
