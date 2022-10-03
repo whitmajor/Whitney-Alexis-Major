@@ -1,4 +1,4 @@
-### Hi there 👋, Whitney Major
+### Hi there 👋, I'm Whitney Major
 #### Web Development
 [![Web Development](https://github.com/whitmajor/Whitney-Alexis-Major/blob/main/My%20project-1.png)
 
