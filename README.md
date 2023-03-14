@@ -4,8 +4,7 @@
 ### Hi there 👋, I'm Whitney Major
 #### Web Development
 
-I'm an aspiring software engineer hoping to ground my feet into the awesome world of technology! I am passionate about making open-source more accessible, creating technology to elevate the world and build our community to follow suite. My favorite languages to work with include HTML, CSS, JavaScript and SQL!
-
+I'm a software engineer exploring the awesome world of technology! I am passionate about making open source more accessible, creating technology to elevate the world, and building our community to follow suit. My favorite languages to work with include HTML, CSS, JavaScript and SQL!
 
 
 You can also check me out here!
